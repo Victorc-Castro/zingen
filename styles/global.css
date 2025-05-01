@@ -53,6 +53,8 @@ html {
   color: var(--txt-color-pri);
 
   overflow-x: hidden;
+
+  scroll-behavior: smooth;
 }
 
 body {
