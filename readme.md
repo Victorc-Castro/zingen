@@ -2,15 +2,15 @@
  <img src="./assets/images/img-projeto.png" alt="Foto de capa" width="100%" />
 </p>    
 
-## 💻 Projeto
-Esse é um projeto Web responsivo feito para fazer a apresentação de um aplicativo de karaokê. O projeto foi desenvolvido com o objetivo de aprimorar as habilidades sobre HTML e CSS, focando principalmnente no estudo a respeito de responsividade, para que o projeto funcione em telas de diferentes tamanhos.
+## 💻 Zigen
+This is a responsive web project designed to showcase a karaoke app. It was developed to sharpen my HTML and CSS skills, with a primary focus on responsiveness to ensure the site works seamlessly across various screen sizes.
 
-## 👩‍💻 Tecnologias
-Esse projeto foi desenvolvido usando as seguintes tecnologias:
+## ⚙️ Technologies Used
+This project was developed using the following technologies:
 
 - HTML
 - CSS
 - GIT E Github
 
 ## 🏷️ Layout
-Você pode visualizar o layout do projeto através [desse link](https://www.figma.com/community/file/1371886246180677672/lp-de-produto). É necessário ter uma conta no [Figma](https://www.figma.com).
+You can view the project layout through [this link](https://www.figma.com/community/file/1371886246180677672/lp-de-produto). Note: A Figma account is required [Figma](https://www.figma.com).
