@@ -2,7 +2,7 @@
  <img src="./assets/images/img-projeto.png" alt="Foto de capa" width="100%" />
 </p>    
 
-## 💻 Zigen
+## 🎤 Zigen
 This is a responsive web project designed to showcase a karaoke app. It was developed to sharpen my HTML and CSS skills, with a primary focus on responsiveness to ensure the site works seamlessly across various screen sizes.
 
 ## ⚙️ Technologies Used
